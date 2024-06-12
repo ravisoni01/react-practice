@@ -22,7 +22,7 @@ const manifestForPlugIn = {
         src: "/android-chrome-512x512.png",
         sizes: "144x144",
         type: "image/png",
-        purpose: "favicon",
+        purpose: "any",
       },
       {
         src: "/apple-touch-icon.png",
