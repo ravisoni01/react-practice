@@ -37,5 +37,6 @@ const manifestForPlugIn = {
     scope: "/",
     start_url: "/",
     orientation: "portrait",
+    prefer_related_applications: true,
   },
 };
